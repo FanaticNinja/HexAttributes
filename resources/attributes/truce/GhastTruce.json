@@ -1,0 +1,9 @@
+{
+  "name": "GhastTruce",
+  "info": "GHAST info",
+  "cost": 50,
+  "entities": [
+    "GHAST"
+  ],
+  "brokenTimout": 30
+}

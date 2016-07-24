@@ -1,0 +1,10 @@
+{  
+  "name": "HarmSunlight",
+  "info": "Take damage while in direct sunlight.",
+  "cost": -60,
+  "condition": "Sunlight",
+  "feed": 0,
+  "starve": 0,
+  "heal": 0.0,
+  "harm": 1.0
+}

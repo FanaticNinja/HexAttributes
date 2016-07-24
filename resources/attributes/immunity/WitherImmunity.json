@@ -1,0 +1,15 @@
+{
+  "name": "WitherImmunity",
+  "info": "Immune WitherStrike, WitherReflect, and all Wither effects.",
+  "cost": 30,
+  "immunityStrikes": [
+    "WitherStrike"
+  ],
+  "immunityReflects": [
+    "WitherReflect"
+  ],
+  "immunityDamageCause": null,
+  "immunityPotionTypes": [
+    "WITHER"
+  ]
+}

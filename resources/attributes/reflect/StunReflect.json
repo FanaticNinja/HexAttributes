@@ -1,0 +1,14 @@
+{
+  "name": "StunReflect",
+  "info": "Enemy is stunned for 3 seconds.",
+  "cost": 100,
+  "fireTicks": 0,
+  "harmDamage": 0.0,
+  "starveAmount": 0,
+  "healAmount": 0.0,
+  "foodAmount": 0,
+  "potionEffect": "SLOW",
+  "potionDuration": 60,
+  "potionApmplifier": 128,
+  "immunity": "SlowImmunity"
+}

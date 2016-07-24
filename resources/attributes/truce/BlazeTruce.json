@@ -1,0 +1,9 @@
+{
+  "name": "BlazeTruce",
+  "info": "Blaze truce info",
+  "cost": 30,
+  "entities": [
+    "BLAZE"
+  ],
+  "brokenTimout": 30
+}

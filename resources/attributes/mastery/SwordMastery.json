@@ -1,0 +1,6 @@
+{
+  "name": "SwordMastery",
+  "info": "Deal +25% damage with Swords.",
+  "cost": 50,
+  "damage": 25.0
+}

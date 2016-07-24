@@ -1,0 +1,14 @@
+{
+  "name": "FireReflect",
+  "info": "Enemy catches fire for 10 seconds.",
+  "cost": 30,
+  "fireTicks": 200,
+  "harmDamage": 0.0,
+  "starveAmount": 0,
+  "healAmount": 0.0,
+  "foodAmount": 0,
+  "potionEffect": null,
+  "potionDuration": 200,
+  "potionApmplifier": 0,
+  "immunity": "FireImmunity"
+}

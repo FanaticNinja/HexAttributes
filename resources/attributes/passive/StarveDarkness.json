@@ -1,0 +1,10 @@
+{  
+  "name": "StarveDarkness",
+  "info": "Loose food while in light level 5 or lower.",
+  "cost": -50,
+  "condition": "Darkness",
+  "feed": 0,
+  "starve": 1,
+  "heal": 0.0,
+  "harm": 0.0
+}

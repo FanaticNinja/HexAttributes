@@ -1,0 +1,10 @@
+{  
+  "name": "HarmLight",
+  "info": "Take damage while in light level 13 or greater.",
+  "cost": -75,
+  "condition": "Light",
+  "feed": 0,
+  "starve": 0,
+  "heal": 0.0,
+  "harm": 1.0
+}

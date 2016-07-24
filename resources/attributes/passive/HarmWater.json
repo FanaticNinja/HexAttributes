@@ -1,0 +1,10 @@
+{  
+  "name": "HarmWater",
+  "info": "Take damage while in direct contact with water.",
+  "cost": -50,
+  "condition": "Water",
+  "feed": 0,
+  "starve": 0,
+  "heal": 0.0,
+  "harm": 1.0
+}

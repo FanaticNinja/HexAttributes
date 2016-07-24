@@ -1,0 +1,8 @@
+{
+  "name": "HealthBoost2",
+  "info": "Grants permanent HealthBoost effect.",
+  "cost": 100,
+  "effect": "HEALTH_BOOST",
+  "duration": 1200,
+  "amplifier": 1
+}

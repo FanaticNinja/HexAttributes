@@ -1,0 +1,10 @@
+{  
+  "name": "FeedWater",
+  "info": "Restore food while in contact with water.",
+  "cost": 25,
+  "condition": "Water",
+  "feed": 1,
+  "starve": 0,
+  "heal": 0.0,
+  "harm": 0.0
+}

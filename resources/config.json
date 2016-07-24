@@ -1,0 +1,72 @@
+{
+  "configVersion": "0.2.0",
+  "bUsePerms": false,
+  "bDelayRespecAfterDamage": true,
+  "timeRespecAfterDamage": 150,
+  "bHideAttributesWithNoPerms": false,
+  "bShowPlayerNoAttributesMessage": false,
+  "bShowWeblink": true,
+  "meleeStrikeChance": 0.33,
+  "rangedStrikeChance": 0.33,
+  "meleeReflectChance": 0.33,
+  "rangedReflectChance": 0.33,
+  "bModifyStrikeChanceBasedOnSwingCooldown": true,
+  "slotsMax": 10,
+  "pointsBase": 150,
+  "bUseWorldWhiteList": false,
+  "worldWhitelist": [
+    "world",
+    "world_nether",
+    "world_the_end"
+  ],
+  "Axes": [
+    "WOOD_AXE",
+    "STONE_AXE",
+    "IRON_AXE",
+    "DIAMOND_AXE"
+  ],
+  "Swords": [
+    "WOOD_SWORD",
+    "STONE_SWORD",
+    "IRON_SWORD",
+    "DIAMOND_SWORD"
+  ],
+  "Projectiles": [
+    "ARROW"
+  ],
+  "Armors": [
+    "LEATHER_HELMET",
+    "LEATHER_CHESTPLATE",
+    "LEATHER_LEGGINGS",
+    "LEATHER_BOOTS",
+    "IRON_HELMET",
+    "IRON_CHESTPLATE",
+    "IRON_LEGGINGS",
+    "IRON_BOOTS",
+    "CHAINMAIL_HELMET",
+    "CHAINMAIL_CHESTPLATE",
+    "CHAINMAIL_LEGGINGS",
+    "CHAINMAIL_BOOTS",
+    "GOLD_HELMET",
+    "GOLD_CHESTPLATE",
+    "GOLD_LEGGINGS",
+    "GOLD_BOOTS",
+    "DIAMOND_HELMET",
+    "DIAMOND_CHESTPLATE",
+    "DIAMOND_LEGGINGS",
+    "DIAMOND_BOOTS"
+  ],
+  "Mobs": [
+    "SLIME",
+    "MAGMA_CUBE",
+    "BLAZE",
+    "SILVERFISH",
+    "SPIDER",
+    "CAVE_SPIDER",
+    "SKELETON",
+    "ZOMBIE",
+    "GHAST",
+    "WITCH",
+    "CREEPER"
+  ]
+}

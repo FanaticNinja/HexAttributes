@@ -1,0 +1,14 @@
+{
+  "name": "WitherReflect",
+  "info": "Enemy withers for 10 seconds.",
+  "cost": 100,
+  "fireTicks": 0,
+  "harmDamage": 0.0,
+  "starveAmount": 0,
+  "healAmount": 0.0,
+  "foodAmount": 0,
+  "potionEffect": "WITHER",
+  "potionDuration": 200,
+  "potionApmplifier": 0,
+  "immunity": "WitherImmunity"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "StarveReflect",
+  "info": "Enemy looses 4 drumsticks of foodlevel.",
+  "cost": 30,
+  "fireTicks": 0,
+  "harmDamage": 0.0,
+  "starveAmount": 4,
+  "healAmount": 0.0,
+  "foodAmount": 0,
+  "potionEffect": null,
+  "potionDuration": 200,
+  "potionApmplifier": 0,
+  "immunity": "StarveImmunity"
+}

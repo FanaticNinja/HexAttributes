@@ -1,0 +1,10 @@
+{  
+  "name": "FeedSunlight",
+  "info": "Restore food while in direct sunlight.",
+  "cost": 25,
+  "condition": "Sunlight",
+  "feed": 1,
+  "starve": 0,
+  "heal": 0.0,
+  "harm": 0.0
+}

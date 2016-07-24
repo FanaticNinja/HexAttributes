@@ -1,0 +1,8 @@
+{
+  "name": "Haste2",
+  "info": "Grants permanent Haste effect.",
+  "cost": 100,
+  "effect": "FAST_DIGGING",
+  "duration": 1200,
+  "amplifier": 1
+}

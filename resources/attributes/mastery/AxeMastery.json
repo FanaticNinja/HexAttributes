@@ -1,0 +1,6 @@
+{
+  "name": "AxeMastery",
+  "info": "Deal +25% damage with Axes.",
+  "cost": 50,
+  "damage": 25.0
+}

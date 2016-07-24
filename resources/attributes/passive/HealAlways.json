@@ -1,0 +1,10 @@
+{  
+  "name": "HealAlways",
+  "info": "Restore 1hp every 3 seconds.",
+  "cost": 60,
+  "condition": "Always",
+  "feed": 0,
+  "starve": 0,
+  "heal": 1.0,
+  "harm": 0.0
+}

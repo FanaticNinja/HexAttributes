@@ -1,0 +1,6 @@
+{
+  "name": "UnarmedDeficiency",
+  "info": "Deal -25% damage with your fists.",
+  "cost": -20,
+  "damage": -25.0
+}

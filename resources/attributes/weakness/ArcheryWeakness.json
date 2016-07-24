@@ -1,0 +1,6 @@
+{
+  "name": "ArcheryWeakness",
+  "info": "Take +25% damage from Bows.",
+  "cost": -50,
+  "damage": 25.0
+}

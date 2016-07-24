@@ -1,0 +1,8 @@
+{
+  "name": "WaterDrinker",
+  "info": "Allows water bottles restore health.",
+  "cost": 20,
+  "foodTypes": [
+    "GLASS_BOTTLE"
+  ]
+}

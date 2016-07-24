@@ -1,0 +1,22 @@
+{
+  "name": "Herbivore",
+  "info": "Allows only vegetable type meals.",
+  "cost": -20,
+  "foodTypes": [
+    "COOKED_BEEF",
+    "COOKED_CHICKEN",
+    "COOKED_FISH",
+    "RAW_BEEF",
+    "RAW_CHICKEN",
+    "RAW_FISH",
+    "ROTTEN_FLESH",
+    "PORK",
+    "GRILLED_PORK",
+    "MUTTON",
+    "COOKED_MUTTON",
+    "RABBIT",
+    "COOKED_RABBIT",
+    "RABBIT_STEW",
+    "SPIDER_EYE"
+  ]
+}

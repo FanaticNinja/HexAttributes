@@ -1,0 +1,10 @@
+{  
+  "name": "FeedDarkness",
+  "info": "Restore food while in light level 5 or lower.",
+  "cost": 50,
+  "condition": "Darkness",
+  "feed": 1,
+  "starve": 0,
+  "heal": 0.0,
+  "harm": 0.0
+}

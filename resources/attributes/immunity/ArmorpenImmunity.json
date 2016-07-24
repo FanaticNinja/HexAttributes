@@ -1,0 +1,13 @@
+{
+  "name": "ArmorpenImmunity",
+  "info": "Immune to ArmorpenStrike and ArmorpenReflect.",
+  "cost": 20,
+  "immunityStrikes": [
+    "ArmorpenStrike"
+  ],
+  "immunityReflects": [
+    "ArmorpenReflect"
+  ],
+  "immunityDamageCause": null,
+  "immunityPotionTypes": null
+}

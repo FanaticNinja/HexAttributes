@@ -1,0 +1,15 @@
+{
+  "name": "WeaknessImmunity",
+  "info": "Immune WeaknessStrike, WeaknessReflect, and all Weakness effects.",
+  "cost": 30,
+  "immunityStrikes": [
+    "WeaknessStrike"
+  ],
+  "immunityReflects": [
+    "WeaknessReflect"
+  ],
+  "immunityDamageCause": null,
+  "immunityPotionTypes": [
+    "WEAKNESS"
+  ]
+}

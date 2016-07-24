@@ -1,0 +1,6 @@
+{
+  "name": "ArcheryDeficiency",
+  "info": "Deal -25% damage with Bows.",
+  "cost": -20,
+  "damage": -25.0
+}

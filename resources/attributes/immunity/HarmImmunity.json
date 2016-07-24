@@ -1,0 +1,15 @@
+{
+  "name": "HarmImmunity",
+  "info": "Immune to Thorns Enchantment, HarmStrike and HarmReflect.",
+  "cost": 20,
+  "immunityStrikes": [
+    "HarmStrike"
+  ],
+  "immunityReflects": [
+    "HarmReflect"
+  ],
+  "immunityDamageCause": [
+    "THORNS"
+  ],
+  "immunityPotionTypes": null
+}

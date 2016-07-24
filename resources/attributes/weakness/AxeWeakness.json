@@ -1,0 +1,6 @@
+{
+  "name": "AxeWeakness",
+  "info": "Take +25% damage from Axes.",
+  "cost": -50,
+  "damage": 25.0
+}

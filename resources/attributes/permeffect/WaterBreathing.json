@@ -1,0 +1,8 @@
+{
+  "name": "WaterBreathing",
+  "info": "Grants permanent water breathing effect.",
+  "cost": 40,
+  "effect": "WATER_BREATHING",
+  "duration": 1200,
+  "amplifier": 0
+}

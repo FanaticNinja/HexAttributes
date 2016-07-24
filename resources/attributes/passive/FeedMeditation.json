@@ -1,0 +1,10 @@
+{  
+  "name": "FeedMeditation",
+  "info": "Restore food after standing still for 10 seconds.",
+  "cost": 50,
+  "condition": "Meditation",
+  "feed": 1,
+  "starve": 0,
+  "heal": 0.0,
+  "harm": 0.0
+}

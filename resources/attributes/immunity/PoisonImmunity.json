@@ -1,0 +1,17 @@
+{
+  "name": "PoisonImmunity",
+  "info": "Immune PoisonStrike, PoisonReflect and all Poison effects.",
+  "cost": 40,
+  "immunityStrikes": [
+    "PoisonStrike"
+  ],
+  "immunityReflects": [
+    "PoisonReflect"
+  ],
+  "immunityDamageCause": [
+    "POISON"
+  ],
+  "immunityPotionTypes": [
+    "POISON"
+  ]
+}

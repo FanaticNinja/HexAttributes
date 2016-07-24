@@ -1,0 +1,13 @@
+{
+  "name": "StarveImmunity",
+  "info": "Immune to StarveStrike, StarveReflect.",
+  "cost": 20,
+  "immunityStrikes": [
+    "StarveStrike"
+  ],
+  "immunityReflects": [
+    "StarveReflect"
+  ],
+  "immunityDamageCause": null,
+  "immunityPotionTypes": null
+}

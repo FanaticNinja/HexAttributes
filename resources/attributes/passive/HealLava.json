@@ -1,0 +1,10 @@
+{  
+  "name": "HealLava",
+  "info": "Heal while in direct contact with lava.",
+  "cost": 30,
+  "condition": "Lava",
+  "feed": 0,
+  "starve": 0,
+  "heal": 1.0,
+  "harm": 0.0
+}

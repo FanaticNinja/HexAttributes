@@ -1,0 +1,8 @@
+{
+  "name": "NightVision",
+  "info": "Grants permanent night vision effect.",
+  "cost": 20,
+  "effect": "NIGHT_VISION",
+  "duration": 1200,
+  "amplifier": 0
+}

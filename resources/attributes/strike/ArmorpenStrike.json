@@ -1,0 +1,14 @@
+{
+  "name": "ArmorpenStrike",
+  "info": "Enemy gets negative resistance effect for 10 seconds.",
+  "cost": 50,
+  "fireTicks": 0,
+  "harmDamage": 0.0,
+  "starveAmount": 0,
+  "healAmount": 0.0,
+  "foodAmount": 0,
+  "potionEffect": "DAMAGE_RESISTANCE",
+  "potionDuration": 200,
+  "potionApmplifier": -1,
+  "immunity": "ArmorpenImmunity"
+}

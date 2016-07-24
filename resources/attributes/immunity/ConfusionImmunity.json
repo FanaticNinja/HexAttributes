@@ -1,0 +1,15 @@
+{
+  "name": "ConfusionImmunity",
+  "info": "Immune to ConfusionStrike, ConfusionReflect, and all Confusion effects.",
+  "cost": 20,
+  "immunityStrikes": [
+    "ConfusionStrike"
+  ],
+  "immunityReflects": [
+    "ConfusionReflect"
+  ],
+  "immunityDamageCause": null,
+  "immunityPotionTypes": [
+    "CONFUSION"
+  ]
+}

@@ -1,0 +1,10 @@
+{  
+  "name": "HealMeditation",
+  "info": "Heal after standing still for 10 seconds.",
+  "cost": 30,
+  "condition": "Meditation",
+  "feed": 0,
+  "starve": 0,
+  "heal": 1.0,
+  "harm": 0.0
+}

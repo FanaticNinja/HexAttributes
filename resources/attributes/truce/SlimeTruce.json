@@ -1,0 +1,10 @@
+{
+  "name": "SlimeTruce",
+  "info": "Slime truce info",
+  "cost": 15,
+  "entities": [
+    "SLIME",
+    "MAGMA_CUBE"
+  ],
+  "brokenTimout": 30
+}

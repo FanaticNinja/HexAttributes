@@ -1,0 +1,17 @@
+{
+  "name": "FireImmunity",
+  "info": "Immune FireStrike, FireReflect, and All Fire and Lava.",
+  "cost": 40,
+  "immunityStrikes": [
+    "FireStrike"
+  ],
+  "immunityReflects": [
+    "FireReflect"
+  ],
+  "immunityDamageCause": [
+    "FIRE",
+    "FIRE_TICK",
+    "LAVA"
+  ],
+  "immunityPotionTypes": null
+}

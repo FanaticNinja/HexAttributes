@@ -1,0 +1,10 @@
+{  
+  "name": "HarmDarkness",
+  "info": "Take damage while in light level 5 or less.",
+  "cost": -75,
+  "condition": "Darkness",
+  "feed": 0,
+  "starve": 0,
+  "heal": 0.0,
+  "harm": 1.0
+}

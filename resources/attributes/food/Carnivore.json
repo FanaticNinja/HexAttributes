@@ -1,0 +1,19 @@
+{
+  "name": "Carnivore",
+  "info": "Allows only eating of meat.",
+  "cost": -20,
+  "foodTypes": [
+    "BAKED_POTATO",
+    "BREAD",
+    "APPLE",
+    "GOLDEN_APPLE",
+    "GOLDEN_CARROT",
+    "CARROT_ITEM",
+    "MUSHROOM_SOUP",
+    "COOKIE",
+    "PUMPKIN_PIE",
+    "MELON",
+    "POISONOUS_POTATO",
+    "POTATO_ITEM"
+  ]
+}

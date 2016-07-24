@@ -1,0 +1,15 @@
+{
+  "name": "BlindnessImmunity",
+  "info": "Immune BlindnessStrike, BlindnessReflect, and all Blind effects.",
+  "cost": 50,
+  "immunityStrikes": [
+    "BlindnessStrike"
+  ],
+  "immunityReflects": [
+    "BlindnessReflect"
+  ],
+  "immunityDamageCause": null,
+  "immunityPotionTypes": [
+    "BLINDNESS"
+  ]
+}

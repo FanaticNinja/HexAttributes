@@ -1,0 +1,14 @@
+{
+  "name": "HealStrike",
+  "info": "You regain 2 hearts of health.",
+  "cost": 50,
+  "fireTicks": 0,
+  "harmDamage": 0.0,
+  "starveAmount": 0,
+  "healAmount": 2.0,
+  "foodAmount": 0,
+  "potionEffect": null,
+  "potionDuration": 100,
+  "potionApmplifier": 0,
+  "immunity": "HealImmunity"
+}

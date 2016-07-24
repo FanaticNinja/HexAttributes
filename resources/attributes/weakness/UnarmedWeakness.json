@@ -1,0 +1,6 @@
+{
+  "name": "UnarmedWeakness",
+  "info": "Take +25% damage from Unarmed.",
+  "cost": -50,
+  "damage": 25.0
+}

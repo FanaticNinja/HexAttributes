@@ -1,0 +1,10 @@
+{
+  "name": "UndeadTruce",
+  "info": "UndeadTruce info",
+  "cost": 30,
+  "entities": [
+    "SKELETON",
+    "ZOMBIE"
+  ],
+  "brokenTimout": 30
+}

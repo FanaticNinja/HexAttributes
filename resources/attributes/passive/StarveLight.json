@@ -1,0 +1,10 @@
+{  
+  "name": "StarveLight",
+  "info": "Loose food while in light level 13 or greater.",
+  "cost": -50,
+  "condition": "Light",
+  "feed": 0,
+  "starve": 1,
+  "heal": 0.0,
+  "harm": 0.0
+}

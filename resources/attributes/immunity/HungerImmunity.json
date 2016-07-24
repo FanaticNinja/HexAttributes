@@ -1,0 +1,15 @@
+{
+  "name": "HungerImmunity",
+  "info": "Immune to HungerStrike, HungerReflect, and all Hunger effects.",
+  "cost": 20,
+  "immunityStrikes": [
+    "HungerStrike"
+  ],
+  "immunityReflects": [
+    "HungerReflect"
+  ],
+  "immunityDamageCause": null,
+  "immunityPotionTypes": [
+    "HUNGER"
+  ]
+}

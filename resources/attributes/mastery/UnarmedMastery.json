@@ -1,0 +1,6 @@
+{
+  "name": "UnarmedMastery",
+  "info": "Deal +25% damage with your fists.",
+  "cost": 50,
+  "damage": 25.0
+}

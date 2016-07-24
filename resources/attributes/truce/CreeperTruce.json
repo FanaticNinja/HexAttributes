@@ -1,0 +1,9 @@
+{
+  "name": "CreeperTruce",
+  "info": "CreeperTruce info",
+  "cost": 40,
+  "entities": [
+    "CREEPER"
+  ],
+  "brokenTimout": 30
+}

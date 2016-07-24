@@ -1,0 +1,6 @@
+{
+  "name": "UnarmedToughness",
+  "info": "Take -25% damage from fists.",
+  "cost": 50,
+  "damage": -25.0
+}

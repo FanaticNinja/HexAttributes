@@ -1,0 +1,10 @@
+{  
+  "name": "StarveSunlight",
+  "info": "Loose food while in direct sunlight.",
+  "cost": -35,
+  "condition": "Sunlight",
+  "feed": 0,
+  "starve": 1,
+  "heal": 0.0,
+  "harm": 0.0
+}

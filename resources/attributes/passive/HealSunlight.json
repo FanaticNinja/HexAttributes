@@ -1,0 +1,10 @@
+{  
+  "name": "HealSunlight",
+  "info": "Heal while in direct sunlight every 3 seconds",
+  "cost": 20,
+  "condition": "Sunlight",
+  "feed": 0,
+  "starve": 0,
+  "heal": 1.0,
+  "harm": 0.0
+}

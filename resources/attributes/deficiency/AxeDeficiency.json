@@ -1,0 +1,6 @@
+{
+  "name": "AxeDeficiency",
+  "info": "Deal -25% damage with Axes.",
+  "cost": -20,
+  "damage": -25.0
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Jump",
+  "info": "Grants permanent jump effect.",
+  "cost": 50,
+  "effect": "JUMP",
+  "duration": 1200,
+  "amplifier": 0
+}

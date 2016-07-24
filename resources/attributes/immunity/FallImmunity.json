@@ -1,0 +1,11 @@
+{
+  "name": "FallImmunity",
+  "info": "Immune to damage taken from falling.",
+  "cost": 30,
+  "immunityStrikes": null,
+  "immunityReflects": null,
+  "immunityDamageCause": [
+    "FALL"
+  ],
+  "immunityPotionTypes": null
+}

@@ -1,0 +1,9 @@
+{
+  "name": "SilverfishTruce",
+  "info": "SilverfishTruce truce info",
+  "cost": 30,
+  "entities": [
+    "SILVERFISH"
+  ],
+  "brokenTimout": 30
+}

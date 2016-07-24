@@ -1,0 +1,14 @@
+{
+  "name": "HarmStrike",
+  "info": "Enemy takes 2 hearts of damage.",
+  "cost": 50,
+  "fireTicks": 0,
+  "harmDamage": 2.0,
+  "starveAmount": 0,
+  "healAmount": 0.0,
+  "foodAmount": 0,
+  "potionEffect": null,
+  "potionDuration": 100,
+  "potionApmplifier": 0,
+  "immunity": "HarmImmunity"
+}

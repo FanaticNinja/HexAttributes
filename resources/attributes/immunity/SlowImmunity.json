@@ -1,0 +1,17 @@
+{
+  "name": "SlowImmunity",
+  "info": "Immune SlowStrike, SlowReflect, StunStrike, StybReflect and all Slow effects.",
+  "cost": 50,
+  "immunityStrikes": [
+    "SlowStrike",
+    "StunStrike"
+  ],
+  "immunityReflects": [
+    "SlowReflect",
+    "StunReflect"
+  ],
+  "immunityDamageCause": null,
+  "immunityPotionTypes": [
+    "SLOW"
+  ]
+}

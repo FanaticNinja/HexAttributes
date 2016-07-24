@@ -1,0 +1,14 @@
+{
+  "name": "SlowStrike",
+  "info": "Enemy is slowed for 10 seconds.",
+  "cost": 50,
+  "fireTicks": 0,
+  "harmDamage": 0.0,
+  "starveAmount": 0,
+  "healAmount": 0.0,
+  "foodAmount": 0,
+  "potionEffect": "SLOW",
+  "potionDuration": 200,
+  "potionApmplifier": 0,
+  "immunity": "SlowImmunity"
+}

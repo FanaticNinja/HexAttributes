@@ -1,0 +1,10 @@
+{  
+  "name": "StarveWater",
+  "info": "Loose food while in contact with water.",
+  "cost": -25,
+  "condition": "Water",
+  "feed": 0,
+  "starve": 1,
+  "heal": 0.0,
+  "harm": 0.0
+}

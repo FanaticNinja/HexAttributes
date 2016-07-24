@@ -1,0 +1,10 @@
+{
+  "name": "SpiderTruce",
+  "info": "SpiderTrucetruce info",
+  "cost": 30,
+  "entities": [
+    "SPIDER",
+    "CAVE_SPIDER"
+  ],
+  "brokenTimout": 30
+}

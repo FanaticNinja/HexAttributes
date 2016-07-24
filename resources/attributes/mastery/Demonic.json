@@ -1,0 +1,6 @@
+{
+  "name": "Demonic",
+  "info": "Deal -50% damage to Angelic targets.",
+  "cost": -75,
+  "damage": -50.0
+}

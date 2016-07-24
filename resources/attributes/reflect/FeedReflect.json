@@ -1,0 +1,14 @@
+{
+  "name": "FeedReflect",
+  "info": "You gain maximum food level at once.",
+  "cost": 30,
+  "fireTicks": 0,
+  "harmDamage": 0.0,
+  "starveAmount": 0,
+  "healAmount": 0.0,
+  "foodAmount": 20,
+  "potionEffect": null,
+  "potionDuration": 200,
+  "potionApmplifier": 0,
+  "immunity": "none"
+}

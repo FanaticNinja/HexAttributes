@@ -1,0 +1,8 @@
+{
+  "name": "Speed",
+  "info": "Grants permanent speed effect.",
+  "cost": 50,
+  "effect": "SPEED",
+  "duration": 1200,
+  "amplifier": 0
+}

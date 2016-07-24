@@ -1,0 +1,6 @@
+{
+  "name": "SwordToughness",
+  "info": "Take -25% damage from Swords.",
+  "cost": 50,
+  "damage": -25.0
+}
